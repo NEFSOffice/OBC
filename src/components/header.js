@@ -2,8 +2,12 @@ import React from 'react'
 
 function header() {
     return (
-        <div className="header_mobile">
-            
+        <div className="Header">
+            <img src="logo192.png" alt="logo"/>
+            <br/>
+            Original Beer Company
+            <br/>
+            MEMORABLE MOMENTS 
         </div>
     )
 }
