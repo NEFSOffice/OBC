@@ -1,7 +1,5 @@
 import "./App.css";
-import Header from "./components/header";
-import Footer from "./components/footer";
-import ImageScroller from "./components/Imagescroller";
+import Header from "./components/H  eader";
 
 function App() {
   return (
@@ -91,7 +89,6 @@ function App() {
         <br />
       </div>
 
-      <Footer />
     </div>
   );
 }

@@ -1,6 +1,6 @@
 import React from 'react'
 
-function header() {
+function Header() {
     return (
         <div className="Header">
             <img src="logo192.png" alt="logo"/>
@@ -12,4 +12,4 @@ function header() {
     )
 }
 
-export default header
+export default Header
